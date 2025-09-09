@@ -144,7 +144,7 @@ export const resume = [
     icon: <FaBriefcase />,
     year: "2024 - 2025",
     title: "Full Stack Web Developer <span> Tap Academy </span>",
-    desc: "Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore adipisicing elit,",
+    desc: "I have worked at Tap Academy, an early-stage edtech startup with a team size of around 50–100 members. As a Full Stack Developer over the past year, I had the opportunity to contribute across both frontend and backend systems in a fast-paced, collaborative environment. Working closely with designers, backend engineers, and the product team, I developed and enhanced key features such as the Blogs Page and Course Details Page for the Tai Website using Next.js, TypeScript, and Material UI. I was also responsible for building and maintaining dynamic components that consumed APIs and supported smooth user navigation.",
   },
 
   // {
@@ -171,7 +171,7 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: "2023",
     title: "Bachelor's Degree <span> Bengaluru City University </span>",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore",
+    desc: "Percentage: 90%",
   },
 
   {
@@ -180,7 +180,7 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: "2020",
     title: "PU College <span> Shri Vijetha PU College </span>",
-    desc: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt",
+    desc: "Percentage: 89%",
   },
 
   {
@@ -188,8 +188,8 @@ export const resume = [
     category: "education",
     icon: <FaGraduationCap />,
     year: "2018",
-    title: "SSLC <span> Prashanthi High School </span>",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore",
+    title: "SSLC <span> Shri Prashanthi High School </span>",
+    desc: "Percentage: 86%",
   },
 ];
 

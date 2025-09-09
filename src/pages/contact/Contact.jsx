@@ -7,7 +7,7 @@ import {
   FaYoutube,
   FaGithub,
 } from "react-icons/fa";
-import { FiSend } from "react-icons/fi";
+// import { FiSend } from "react-icons/fi";
 
 import "./contact.css";
 

@@ -1,5 +1,5 @@
 import React from "react";
-import profile from "../../assets/shravan4.jpg";
+// import profile from "../../assets/shravan4.jpg";
 import { Link } from "react-router-dom";
 import { FaArrowRight } from "react-icons/fa";
 import "./home.css";
