@@ -376,6 +376,33 @@ export const portfolio = [
       },
     ],
   },
+  {
+    id: 5,
+    img: Work5,
+    title: "Front End Developer",
+    details: [
+      {
+        icon: <FiFileText />,
+        title: "Project : ",
+        desc: "My AI PPT Generater",
+      },
+      {
+        icon: <FiUser />,
+        title: "Client : ",
+        desc: "Self",
+      },
+      {
+        icon: <FaCode />,
+        title: "Language : ",
+        desc: "NextJS/TypeScript",
+      },
+      {
+        icon: <FiExternalLink />,
+        title: "Preview : ",
+        desc: "https://my-ai-ppt.vercel.app",
+      },
+    ],
+  },
 ];
 
 export const themes = [
