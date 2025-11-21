@@ -13,6 +13,7 @@ import Work1 from "./assets/project-1.png";
 import Work2 from "./assets/project-2.png";
 import Work3 from "./assets/project-3.png";
 import Work4 from "./assets/project-4.png";
+import Work5 from "./assets/project-5.png";
 
 import Theme1 from "./assets/purple.png";
 import Theme2 from "./assets/red.png";
